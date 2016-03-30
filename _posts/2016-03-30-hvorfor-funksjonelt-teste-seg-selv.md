@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Forestill deg selv i en vill jungel med et kart, eller hvorfor ikke Jotunheimen? Du kan finne sikkerhet, komfort og sivilisasjon merket med X. Hvordan kunne du mulig finne veien til X hvis du ikke vet ditt utgangspunkt? Helseproblemer kan være like komplisert som å gå tapt i en jungel. CheckUp®Trainer og funksjonelle tester er helsen din sitt eget GPS og sikrer at du fungerer som menneske.'
-datePublished: '2016-03-30T08:35:42.630Z'
-dateModified: '2016-03-30T08:35:42.106Z'
+datePublished: '2016-03-30T12:03:57.191Z'
+dateModified: '2016-03-30T12:03:36.203Z'
 author: []
 title: Hvorfor funksjonelt teste seg selv?
 sourcePath: _posts/2016-03-30-hvorfor-funksjonelt-teste-seg-selv.md
@@ -31,6 +31,8 @@ _type: Article
 **Hvor du vil, som du ønsker! **Med din egen helse side hvor du vill (CheckUp(r)Trainer) og standardiserte målinger er dette mulig. Samlet kombinasjon av tester skaper en målestokk for din generelle helsetilstand akkurat nå. Hver enkelt måling er individualisert og valgt i henhold til din situasjon og mål. Uansett hva de kan være? Lignende tester har blitt gjort, og er ofte brukt av profesjonelle idrettsutøvere før å sikre framgang i trening og forebygge skader. 
 > 
 > Men er vi ikke alle fagfolk (profesjonelle) i den forstand at vi jobber hver dag og trenger en funksjonell kropp for å støtte vårt eget liv? 
+
+_- Pontus_
 
 Når vi tester **balanse**, **styrke**, **koordinasjon**, **utholdenhet** og **fleksibilitet** og **kroppssammensetning** tester vi indirekte din generelle helse. Helhetlig, enkel og uten unnskyldninger. Disse tester er funksjonelle fordi vi tester det du bruker i det daglige og sammen kan utfylle de tester gjort av legen din. 
 
