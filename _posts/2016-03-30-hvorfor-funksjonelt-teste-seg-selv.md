@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Forestill deg selv i en vill jungel med et kart, eller hvorfor ikke Jotunheimen? Du kan finne sikkerhet, komfort og sivilisasjon merket med X. Hvordan kunne du mulig finne veien til X hvis du ikke vet ditt utgangspunkt? Helseproblemer kan være like komplisert som å gå tapt i en jungel. CheckUp®Trainer og funksjonelle tester er helsen din sitt eget GPS og sikrer at du fungerer som menneske.'
-datePublished: '2016-03-30T07:39:31.425Z'
-dateModified: '2016-03-30T07:39:07.121Z'
+datePublished: '2016-03-30T08:08:34.255Z'
+dateModified: '2016-03-30T08:08:21.435Z'
 author: []
 title: Hvorfor funksjonelt teste seg selv?
+sourcePath: _posts/2016-03-30-hvorfor-funksjonelt-teste-seg-selv.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-30-hvorfor-funksjonelt-teste-seg-selv.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
@@ -34,16 +34,16 @@ _type: Article
 
 Når vi tester **balanse**, **styrke**, **koordinasjon**, **utholdenhet** og **fleksibilitet** og **kroppssammensetning** tester vi indirekte din generelle helse. Helhetlig, enkel og uten unnskyldninger. Disse tester er funksjonelle fordi vi tester det du bruker i det daglige og sammen kan utfylle de tester gjort av legen din. 
 
-Akkurat som i ett kart. I CheckUp Trainer får man all data samlet på ett sted. Alt samlet på et sted for en bedre oversikt, økt bevissthet og enklere analyse.  Vi kaller denne sammensetting av funksjonelle test for hva det egentlig er - K.N.A. (Kroppslig Nåtids Analyse) 
+**Akkurat som i ett kart.** I CheckUp Trainer får man all data samlet på ett sted. Alt samlet på et sted for en bedre oversikt, økt bevissthet og enklere analyse.  Vi kaller denne sammensetting av funksjonelle test for hva det egentlig er - Kroppslig Nåtids Analyse, KNA 
 
-_Ps. _
+_**OBS! **_
 
-_Fra 22\. April 2016 er det mulig og være med i arrangement som øker din bevissthet om kroppen og gjør deg sterkere. Vi viser funksjonelle tester og fundamental trening (Foundation Training). Bli med du og!_
+_Fra **22\. April 2016** er det mulig og være med i arrangement som øker din bevissthet om kroppen og gjør deg sterkere. Vi viser funksjonelle tester og fundamental trening (Foundation Training). Bli med du og!_
 
 _Best hilsen Pontus, Markveien Naturmedisinske Senter_
 
-[PÅMELDING][0]
+**Meld deg på [HER][0]**
 
-Velkommen og bli kartlagt vei ut av trøbbel, blir sterkere og kanskje lære deg noe nytt!
+## Velkommen og bli kartlagt vei ut av trøbbel, blir funksjonelt sterkere og lær deg noe nytt!
 
-[0]: null
+[0]: https://podio.com/webforms/15407725/1032986
