@@ -23,7 +23,7 @@ color:
     - '#686868'
     - '#adadad'
   brandStrength: 0.4054738
-  lightness: 0.3422141
+  lightness: 1
   saturation: 0.642526
   rhythmicContrast: 0.2006776
 purpose: []
