@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Påmelding for funksjons testing
-datePublished: '2016-03-31T08:31:53.303Z'
-dateModified: '2016-03-31T08:30:15.706Z'
+datePublished: '2016-03-31T08:50:11.683Z'
+dateModified: '2016-03-31T08:49:36.622Z'
 title: Funksjonelle Tester
 author: []
 sourcePath: _posts/2016-03-31-funksjonelle-tester.md
