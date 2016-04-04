@@ -1,7 +1,7 @@
 name: Funksjonelle tester
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.83526
+typography_spectrum: 0.3798
 title: Funksjonelle Tester og Fundamental Trening
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#5d860c'
     - '#b2b2b2'
     - '#626262'
-  brandStrength: 0.5
-  lightness: 1
+  brandStrength: 0.3125
+  lightness: 0.6875
   saturation: 0
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5
 purpose: []
