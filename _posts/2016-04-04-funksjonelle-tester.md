@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-04T14:20:50.240Z'
-dateModified: '2016-04-04T14:20:21.136Z'
+datePublished: '2016-04-04T14:22:08.183Z'
+dateModified: '2016-04-04T14:21:07.762Z'
 author: []
 title: 'Funksjonelle Tester & Fundamental Trening'
 sourcePath: _posts/2016-04-04-funksjonelle-tester.md
