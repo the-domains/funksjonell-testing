@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Forestill deg selv i en vill jungel med et kart, eller hvorfor ikke Jotunheimen? Du kan finne sikkerhet, komfort og sivilisasjon merket med X. Hvordan kunne du mulig finne veien til X hvis du ikke vet ditt utgangspunkt? Helseproblemer kan være like komplisert som å gå tapt i en jungel. CheckUp®Trainer og funksjonelle tester er helsen din sitt eget GPS og sikrer at du fungerer som menneske.'
-datePublished: '2016-03-31T07:19:19.332Z'
-dateModified: '2016-03-31T07:18:20.477Z'
+datePublished: '2016-04-04T21:36:06.847Z'
+dateModified: '2016-04-04T21:36:00.237Z'
 author: []
 title: Hvorfor funksjonelt teste seg selv?
 sourcePath: _posts/2016-03-30-hvorfor-funksjonelt-teste-seg-selv.md
@@ -38,8 +38,4 @@ Når vi tester **balanse**, **styrke**, **koordinasjon**, **utholdenhet** og **f
 
 _Velkommen og bli kartlagt vei ut av trøbbel, blir funksjonelt sterkere og lær deg noe nytt!_
 
-[KLIKK HER][0]
-
 - Beste hilsen, Pontus
-
-[0]: https://podio.com/webforms/15407725/1032986
