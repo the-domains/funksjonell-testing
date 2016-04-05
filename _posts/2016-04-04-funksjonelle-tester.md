@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-04T21:27:30.770Z'
-dateModified: '2016-04-04T21:27:25.162Z'
+datePublished: '2016-04-05T07:18:35.909Z'
+dateModified: '2016-04-05T07:18:29.607Z'
 author: []
 title: 'Introduksjon i Foundation Training & Funksjonelle Tester'
 sourcePath: _posts/2016-04-04-funksjonelle-tester.md
@@ -29,19 +29,14 @@ _type: Article
 ## Opplev og lær om hvordan treningssystemet Foundation Training fungerer. 
 
 **Den meritterte og renommerte Ski-kjøreren, Massasjeterapeuten og Funksjonelle testlederen, Pontus Lüttkens, er nyutdannet fra USA i treningsmetoden Foundation Training. **
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/01dd260fc60243d01bb7435fc574a24532f837a9.png)
 
-Deltakere (tirsdag-fredag) kommer å gis en kort presentasjon av det kroppsligt funksjonelle testsystemet KNA (Kroppslig Nåtids Analyse) illustrert ovan og veiledning av grunnleggende øvelsen i trenings systemet Foundation Training, The Founder. 
+**Deltakere** (tirsdag-fredag) kommer å gis en kort presentasjon av det kroppsligt funksjonelle testsystemet KNA (Kroppslig Nåtids Analyse) illustrert nedan og veiledning av grunnleggende øvelsen i trenings systemet Foundation Training, The Founder. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/01dd260fc60243d01bb7435fc574a24532f837a9.png)
 
-Øvelsen er en fundamental øvelse før prestasjon og ytelse som hjulpet han selv og mange han behandlet til å bli av med kroniske ryggplager. Arrangementet gir støtte til [Foreningen Snølykkan][0] med 15% av brutto inntekter.
+**Øvelsen** er en fundamental øvelse før prestasjon og ytelse som hjulpet han selv og mange han behandlet til å bli av med kroniske ryggplager. Arrangementet gir støtte til [Foreningen Snølykkan][0] med 15% av brutto inntekter.
 
-Muligheter finnes hele uken og starter den **Mandag****25\. April **t.o.m. **Fredag 03\. Juni (2016)**
+**Muligheter** finnes hele uken og starter den Mandag 25\. April t.o.m. Fredag 03\. Juni (2016)
 
 ## Tid & Steder
-
-Majorstuen, rett ved skolen etter avlevering og når barn er i klassrom
-
-* **Endelig Mandag **- _En Introduktion i Foundation Training for foreldre på Majorstuen Skole _- 04/25/2016 8:30 AM - 9:00 AM
 
 Grünerløkka, utenfor Westerdals School of A.C.T.
 
@@ -50,9 +45,12 @@ Grünerløkka, utenfor Westerdals School of A.C.T.
 * **Etter Jobb Torsdag** - _En Introduksjon i Funksjonell Testing & Fundamental Trening_ - 04/28/2016 6:00 PM - 7:30 PM
 * **Før Hytta Fredag** - _En Introduksjon i Funksjonell Testing & Fundamental Trening_ - 04/29/2016 2:00 PM - 3:30 PM
 
-Velkommen
-
 Klikk [HER][1] og bli med du og.
+
+Velkommen!
+
+_Ps. Hvis ikke noen tid/sted passer. Klikk [HER][2] og kom med et forslag._
 
 [0]: http://www.snolykkan.com/
 [1]: https://podio.com/webforms/15407725/1032986
+[2]: https://podio.com/webforms/15407723/1032997
