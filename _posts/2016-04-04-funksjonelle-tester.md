@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-05T07:30:54.565Z'
-dateModified: '2016-04-05T07:30:33.203Z'
+datePublished: '2016-04-05T07:36:10.023Z'
+dateModified: '2016-04-05T07:36:05.550Z'
 author: []
 title: 'Introduksjon i Foundation Training & Funksjonelle Tester'
 sourcePath: _posts/2016-04-04-funksjonelle-tester.md
@@ -26,7 +26,7 @@ _type: Article
 # Introduksjon i Foundation Training & Funksjonelle Tester
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17817800-c1e0-41f4-b52b-f2d06eee9df9.jpg)
 
-## Opplev og lær om hvordan treningssystemet Foundation Training fungerer. 
+## Opplev og lær om hvordan trenings-systemet Foundation Training fungerer. 
 
 **Den meritterte og renommerte Ski-kjøreren, Massasjeterapeuten og Funksjonelle testlederen, Pontus Lüttkens, er nyutdannet fra USA i treningsmetoden Foundation Training. **
 
@@ -48,7 +48,9 @@ _Grünerløkka, utenfor Westerdals School of A.C.T._
 
 **Før Hytta Fredag**-_En Introduksjon i FunksjonellTesting & Fundamental Trening_- 04/29/2016 2:00 PM-3:30 PM
 
-**Klikk [HER][1]** og bli med du og.
+_Pris - 300 kr per deltagere / 1,5 time_
+
+## Klikk [HER][1] og bli med du og.
 
 Velkommen!
 
