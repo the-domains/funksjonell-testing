@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-05T07:18:35.909Z'
-dateModified: '2016-04-05T07:18:29.607Z'
+datePublished: '2016-04-05T07:22:23.016Z'
+dateModified: '2016-04-05T07:20:54.476Z'
 author: []
 title: 'Introduksjon i Foundation Training & Funksjonelle Tester'
 sourcePath: _posts/2016-04-04-funksjonelle-tester.md
