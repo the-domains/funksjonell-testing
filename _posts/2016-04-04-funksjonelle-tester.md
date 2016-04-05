@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-05T07:22:23.016Z'
-dateModified: '2016-04-05T07:20:54.476Z'
+datePublished: '2016-04-05T07:27:06.120Z'
+dateModified: '2016-04-05T07:27:05.104Z'
 author: []
 title: 'Introduksjon i Foundation Training & Funksjonelle Tester'
 sourcePath: _posts/2016-04-04-funksjonelle-tester.md
@@ -36,18 +36,18 @@ _type: Article
 
 **Muligheter** finnes hele uken og starter den Mandag 25\. April t.o.m. Fredag 03\. Juni (2016)
 
-## Tid & Steder
+**Tid og Sted**, Grünerløkka, utenfor Westerdals School of A.C.T.
 
-Grünerløkka, utenfor Westerdals School of A.C.T.
+* **Lengre Lunsj Tirsdag**-_En Introduksjon i FunksjonellTesting & FundamentalTrening_- 04/26/2016 11:30AM- 1:00 PM
+* **God Morgen Onsdag**-_En Introduksjon i FunksjonellTesting & FundamentalTrening_- 04/27/2016 7:30 AM-9:00 AM
+* **Etter Jobb Torsdag**-_En Introduksjon i FunksjonellTesting & FundamentalTrening_- 04/28/2016 6:00 PM-7:30 PM
+* **Før Hytta Fredag**-_En Introduksjon i FunksjonellTesting & Fundamental Trening_- 04/29/2016 2:00 PM-3:30 PM
 
-* **Lengre Lunsj Tirsdag** - _En Introduksjon i Funksjonell Testing & Fundamental Trening_ - 04/26/2016 11:30 AM - 1:00 PM
-* **God Morgen Onsdag** - _En Introduksjon i Funksjonell Testing & Fundamental Trening_ - 04/27/2016 7:30 AM - 9:00 AM
-* **Etter Jobb Torsdag** - _En Introduksjon i Funksjonell Testing & Fundamental Trening_ - 04/28/2016 6:00 PM - 7:30 PM
-* **Før Hytta Fredag** - _En Introduksjon i Funksjonell Testing & Fundamental Trening_ - 04/29/2016 2:00 PM - 3:30 PM
-
-Klikk [HER][1] og bli med du og.
+**Klikk [HER][1]** og bli med du og.
 
 Velkommen!
+
+Beste hilsen, Pontus
 
 _Ps. Hvis ikke noen tid/sted passer. Klikk [HER][2] og kom med et forslag._
 
