@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: SE DENNE VIDEO
-datePublished: '2016-04-06T19:44:19.761Z'
-dateModified: '2016-04-06T19:43:31.030Z'
+description: Kanske vi endelig kan forstå smerte som en kompleks og løse det derefter...
+datePublished: '2016-04-06T19:48:47.805Z'
+dateModified: '2016-04-06T19:44:30.034Z'
 title: "Funksjonelle tester - Fremtidens veivisere for din helse\_"
 author: []
 sourcePath: _posts/2016-04-06-funksjonelle-tester.md
