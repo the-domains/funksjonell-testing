@@ -6,25 +6,23 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: Når legen har sagt sitt bør du komme å teste deg funksjonelt.
-datePublished: '2016-04-06T19:14:31.324Z'
-dateModified: '2016-04-06T19:13:43.129Z'
-title: 'Funksjonelle tester '
+description: SE DENNE VIDEO
+datePublished: '2016-04-06T19:18:05.484Z'
+dateModified: '2016-04-06T19:17:08.559Z'
+title: "Funksjonelle tester - Fremtidens veivisere for din helse\_"
 author: []
+sourcePath: _posts/2016-04-06-funksjonelle-tester.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-06-funksjonelle-tester.md
-published: true
 _type: Blurb
 
 ---
-# Funksjonelle tester
-
-**Når legen har sagt sitt bør du komme å teste deg funksjonelt.**
+# Funksjonelle tester - Fremtidens veivisere for din helse 
 
 [SE DENNE VIDEO][0]
 
