@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: SE DENNE VIDEO
-datePublished: '2016-04-06T19:21:07.892Z'
-dateModified: '2016-04-06T19:20:33.829Z'
+datePublished: '2016-04-06T19:21:27.789Z'
+dateModified: '2016-04-06T19:21:14.438Z'
 title: "Funksjonelle tester - Fremtidens veivisere for din helse\_"
 author: []
 sourcePath: _posts/2016-04-06-funksjonelle-tester.md
