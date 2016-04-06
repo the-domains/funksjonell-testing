@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Den meritterte og renommerte Ski-kjøreren, Massasjeterapeuten og Funksjonelle testlederen, Pontus Lüttkens, er nyutdannet fra USA i treningsmetoden Foundation Training.\_"
-datePublished: '2016-04-06T19:54:47.841Z'
-dateModified: '2016-04-06T19:54:40.617Z'
+datePublished: '2016-04-06T19:56:35.641Z'
+dateModified: '2016-04-06T19:56:17.371Z'
 author: []
 title: 'Introduksjon i Foundation Training & Funksjonelle Tester'
 sourcePath: _posts/2016-04-04-funksjonelle-tester.md
