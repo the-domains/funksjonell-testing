@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-05T07:36:10.023Z'
-dateModified: '2016-04-05T07:36:05.550Z'
+description: "Den meritterte og renommerte Ski-kjøreren, Massasjeterapeuten og Funksjonelle testlederen, Pontus Lüttkens, er nyutdannet fra USA i treningsmetoden Foundation Training.\_"
+datePublished: '2016-04-06T19:52:49.978Z'
+dateModified: '2016-04-06T19:52:48.537Z'
 author: []
 title: 'Introduksjon i Foundation Training & Funksjonelle Tester'
 sourcePath: _posts/2016-04-04-funksjonelle-tester.md
@@ -30,7 +30,7 @@ _type: Article
 
 **Den meritterte og renommerte Ski-kjøreren, Massasjeterapeuten og Funksjonelle testlederen, Pontus Lüttkens, er nyutdannet fra USA i treningsmetoden Foundation Training. **
 
-**Deltakere** (tirsdag-fredag) kommer å gis en kort presentasjon av det kroppsligt funksjonelle testsystemet KNA (Kroppslig Nåtids Analyse) illustrert nedan og veiledning av grunnleggende øvelsen i trenings systemet Foundation Training, The Founder. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/01dd260fc60243d01bb7435fc574a24532f837a9.png)
+**Deltakere** (tirsdag-fredag) kommer å gis en kort presentasjon av det kroppsligt funksjonelle testsystemet KNA (Kroppslig Nåtids Analyse) illustrert nedan og veiledning av grunnleggende øvelsen i trenings systemet Foundation Training, The Founder. 
 
 **Øvelsen** er en fundamental øvelse før prestasjon og ytelse som hjulpet han selv og mange han behandlet til å bli av med kroniske ryggplager. Arrangementet gir støtte til [Foreningen Snølykkan][0] med 15% av brutto inntekter.
 
