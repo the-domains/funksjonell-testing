@@ -16,9 +16,9 @@ keywords:
   - smartwater
   - carpenteria
   - homestead
-description: "When you arrive at Dr. Eric Goodman's Carpenteria home and Foundation Training base camp, you're instantaneously at ease. It's mostly the super-relaxed vibe Goodman and his business partners/friends emanate as they stroll barefoot along the patio. (The dogs running up and down the stairs have a little to do with it, too.)"
-datePublished: '2016-04-12T15:16:14.238Z'
-dateModified: '2016-04-12T12:48:05.483Z'
+description: Om Foundation Training
+datePublished: '2016-04-12T15:16:32.713Z'
+dateModified: '2016-04-12T15:16:22.238Z'
 author:
   - name: The Inertia
     url: 'http://www.theinertia.com/author/theinertia-com/'
