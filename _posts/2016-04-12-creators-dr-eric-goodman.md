@@ -17,15 +17,15 @@ keywords:
   - carpenteria
   - homestead
 description: Om Foundation Training
-datePublished: '2016-04-12T15:16:32.713Z'
-dateModified: '2016-04-12T15:16:22.238Z'
+datePublished: '2016-04-12T15:29:45.451Z'
+dateModified: '2016-04-12T15:16:41.075Z'
 author:
   - name: The Inertia
     url: 'http://www.theinertia.com/author/theinertia-com/'
     avatar: {}
 related: []
 app_links: []
-title: 'Creators: Dr. Eric Goodman'
+title: About Foundation Training
 authors: []
 publisher:
   name: The Inertia
