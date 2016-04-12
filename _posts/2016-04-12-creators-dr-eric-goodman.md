@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.theinertia.com/health/creators-dr-eric-goodman/'
 inLanguage: en
 starred: false
 keywords:
@@ -16,9 +15,9 @@ keywords:
   - smartwater
   - carpenteria
   - homestead
-description: Om Foundation Training
-datePublished: '2016-04-12T15:30:41.798Z'
-dateModified: '2016-04-12T15:30:10.308Z'
+description: A video and article about the creator of Foundation Training
+datePublished: '2016-04-12T18:02:20.335Z'
+dateModified: '2016-04-12T18:02:19.866Z'
 author:
   - name: The Inertia
     url: 'http://www.theinertia.com/author/theinertia-com/'
@@ -34,6 +33,7 @@ publisher:
   favicon: null
 sourcePath: _posts/2016-04-12-creators-dr-eric-goodman.md
 published: true
+url: about-foundation-training/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
