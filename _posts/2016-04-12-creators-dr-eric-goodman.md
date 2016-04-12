@@ -17,8 +17,8 @@ keywords:
   - carpenteria
   - homestead
 description: "When you arrive at Dr. Eric Goodman's Carpenteria home and Foundation Training base camp, you're instantaneously at ease. It's mostly the super-relaxed vibe Goodman and his business partners/friends emanate as they stroll barefoot along the patio. (The dogs running up and down the stairs have a little to do with it, too.)"
-datePublished: '2016-04-12T12:48:05.121Z'
-dateModified: '2016-04-12T12:07:01.008Z'
+datePublished: '2016-04-12T15:16:14.238Z'
+dateModified: '2016-04-12T12:48:05.483Z'
 author:
   - name: The Inertia
     url: 'http://www.theinertia.com/author/theinertia-com/'
@@ -38,4 +38,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+Om Foundation Training
+
 <article style=""><h1>Creators: Dr. Eric Goodman</h1><p>When you arrive at Dr. Eric Goodman's Carpenteria home and Foundation Training base camp, you're instantaneously at ease. It's mostly the super-relaxed vibe Goodman and his business partners/friends emanate as they stroll barefoot along the patio. (The dogs running up and down the stairs have a little to do with it, too.)</p><img src="http://cdn1.theinertia.com/wp-content/uploads/2014/08/Featured.jpg" /></article>
