@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Forestill deg selv i en vill jungel med et kart, eller hvorfor ikke Jotunheimen? Du kan finne sikkerhet, komfort og sivilisasjon merket med X. Hvordan kunne du mulig finne veien til X hvis du ikke vet ditt utgangspunkt? Helseproblemer kan være like komplisert som å gå tapt i en jungel. CheckUp®Trainer og funksjonelle tester er helsen din sitt eget GPS og sikrer at du fungerer som menneske.'
-datePublished: '2016-04-06T19:56:29.920Z'
-dateModified: '2016-04-06T19:55:55.226Z'
+datePublished: '2016-04-12T18:02:29.053Z'
+dateModified: '2016-04-12T18:02:28.503Z'
 author: []
 title: Hvorfor funksjonelt teste seg selv?
 sourcePath: _posts/2016-03-30-hvorfor-funksjonelt-teste-seg-selv.md
