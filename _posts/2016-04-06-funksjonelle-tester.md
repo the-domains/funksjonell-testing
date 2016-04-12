@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Kanskje vi endelig kan forstå smerte som kompleks og løse det derefter...
-datePublished: '2016-04-06T19:56:42.151Z'
-dateModified: '2016-04-06T19:56:33.380Z'
+datePublished: '2016-04-12T18:02:24.193Z'
+dateModified: '2016-04-12T18:02:23.899Z'
 title: "Funksjonelle tester - Fremtidens veivisere for din helse\_"
 author: []
 sourcePath: _posts/2016-04-06-funksjonelle-tester.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-# Funksjonelle tester - Fremtidens veivisere for din helse ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d39f58ba6c2cd72e3ee9ab710135337e91c18adf.jpg)
+# Funksjonelle tester - Fremtidens veivisere for din helse ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f91ae76ca3ca2f4d58629a982466eee7c5c35e56.jpg)
 
 ## Smertefull virkelighet? eller ikke?
 
