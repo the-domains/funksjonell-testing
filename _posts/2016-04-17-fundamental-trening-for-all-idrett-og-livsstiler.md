@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Meld din interesse og få info om Foundation Training. Ta kontakt med Liv i resepsjonen. Send e-post til post@mns.no eller SMS 47290438. Bli med og lær denne revolusjonerende treningsformen som vil ta all annen trening du gjør til et helt nytt nivå.\_"
-datePublished: '2016-04-17T21:54:15.261Z'
-dateModified: '2016-04-17T21:54:04.602Z'
+datePublished: '2016-04-17T22:41:03.926Z'
+dateModified: '2016-04-17T22:18:16.460Z'
 author:
   - name: snolykkan
     url: 'https://www.instagram.com/snolykkan'
@@ -29,20 +29,20 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-title: FUNDAMENTAL TRENING FOR ALL IDRETT OG LIVSSTILER
+title: Fundamental trening for all idrett og livsstiler
+sourcePath: _posts/2016-04-17-fundamental-trening-for-all-idrett-og-livsstiler.md
+published: true
 authors: []
 publisher:
   name: Instagram
   domain: www.instagram.com
   url: 'https://www.instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-sourcePath: _posts/2016-04-17-fundamental-trening-for-all-idrett-og-livsstiler.md
-published: true
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-# FUNDAMENTAL TRENING FOR ALL IDRETT OG LIVSSTILER
+# Fundamental trening for all idrett og livsstiler
 ![Missing piece of the puzzle was just put into place. Let the work begin #2ftio #snolykkan #foundationtraining #anchor #decompress #integrate](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12724703_1752938871603001_990957870_n.jpg?ig_cache_key=MTIzMDY3MDU2NTAyOTEyMDMyMQ%3D%3D.2)
 
 Meld din interesse og få info om [Foundation Training][0]. Ta kontakt med Liv i resepsjonen. Send e-post til post@mns.no eller SMS 47290438\. Bli med og lær denne revolusjonerende treningsformen som vil ta all annen trening du gjør til et helt nytt nivå. 
