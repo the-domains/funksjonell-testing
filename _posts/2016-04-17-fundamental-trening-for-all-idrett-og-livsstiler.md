@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.instagram.com/p/BEUOFvIFwlB/?taken-by=snolykkan'
 inLanguage: null
 starred: false
 keywords: []
-description: "Meld din interesse og få info om Foundation Training. Ta kontakt med Liv i resepsjonen. Send e-post til post@mns.no eller SMS 47290438. Bli med og lær denne revolusjonerende treningsformen som vil ta all annen trening du gjør til et helt nytt nivå.\_"
-datePublished: '2016-04-17T22:41:03.926Z'
-dateModified: '2016-04-17T22:18:16.460Z'
+description: 'Meld din interesse og få info om Foundation Training. Ta kontakt med Liv i resepsjonen. Send e-post til post@mns.no eller SMS 47290438. Bli med og lær denne revolusjonerende treningsformen som vil ta all annen trening du gjør til et helt nytt nivå. '
+datePublished: '2016-04-18T16:01:07.784Z'
+dateModified: '2016-04-18T16:01:07.308Z'
 author:
   - name: snolykkan
     url: 'https://www.instagram.com/snolykkan'
