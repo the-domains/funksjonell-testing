@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Meld din interesse og få info om Foundation Training. Ta kontakt med Liv i resepsjonen. Send e-post til post@mns.no eller SMS 47290438. Bli med og lær denne revolusjonerende treningsformen som vil ta all annen trening du gjør til et helt nytt nivå. '
-datePublished: '2016-04-18T16:01:07.784Z'
-dateModified: '2016-04-18T16:01:07.308Z'
+datePublished: '2016-04-19T20:25:19.067Z'
+dateModified: '2016-04-19T20:10:14.682Z'
 author:
   - name: snolykkan
     url: 'https://www.instagram.com/snolykkan'
@@ -54,4 +54,4 @@ Hilsen Pontus
 Direkt link til påmelding. [Klikk her.][1]
 
 [0]: www.foundationtraining.com
-[1]: https://podio.com/webforms/15407725/1032986
+[1]: https://podio.com/webforms/15595616/1045133
