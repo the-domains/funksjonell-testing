@@ -6,9 +6,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Forestill deg selv i en vill jungel med et kart, eller hvorfor ikke Jotunheimen? Du kan finne sikkerhet, komfort og sivilisasjon merket med X. Hvordan kunne du mulig finne veien til X hvis du ikke vet ditt utgangspunkt? Helseproblemer kan være like komplisert som å gå tapt i en jungel. CheckUp®Trainer og funksjonelle tester er helsen din sitt eget GPS og sikrer at du fungerer som menneske.'
-datePublished: '2016-04-12T18:02:29.053Z'
-dateModified: '2016-04-12T18:02:28.503Z'
-author: []
+datePublished: '2016-04-19T20:08:59.591Z'
+dateModified: '2016-04-19T20:08:38.332Z'
+author:
+  - name: Pontus Lüttkens
+    url: 'https://no.linkedin.com/in/pontus-lüttkens-413a1270'
 title: Hvorfor funksjonelt teste seg selv?
 sourcePath: _posts/2016-03-30-hvorfor-funksjonelt-teste-seg-selv.md
 published: true
@@ -34,7 +36,7 @@ _type: Article
 
 Når vi tester **balanse**, **styrke**, **koordinasjon**, **utholdenhet** og **fleksibilitet** og **kroppssammensetning** tester vi indirekte din generelle helse. Helhetlig, enkel og uten unnskyldninger. Disse tester er funksjonelle fordi vi tester det du bruker i det daglige og sammen kan utfylle de tester gjort av legen din. 
 
-**Akkurat som i ett kart.** I CheckUp Trainer får man all data samlet på ett sted. Alt samlet på et sted for en bedre oversikt, økt bevissthet og enklere analyse.  Vi kaller denne sammensetting av funksjonelle test for hva det egentlig er - Kroppslig Nåtids Analyse, KNA 
+**Akkurat som i ett kart.** I CheckUp Trainer får man all data samlet på ett sted. Alt samlet på et sted for en bedre oversikt, økt bevissthet og enklere analyse. Vi kaller denne sammensetting av funksjonelle test for hva det egentlig er - Kroppslig Nåtids Analyse, KNA 
 
 _Velkommen og bli kartlagt vei ut av trøbbel, blir funksjonelt sterkere og lær deg noe nytt!_
 
