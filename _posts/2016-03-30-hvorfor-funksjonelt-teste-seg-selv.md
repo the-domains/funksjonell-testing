@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Forestill deg selv i en vill jungel med et kart, eller hvorfor ikke Jotunheimen? Du kan finne sikkerhet, komfort og sivilisasjon merket med X. Hvordan kunne du mulig finne veien til X hvis du ikke vet ditt utgangspunkt? Helseproblemer kan være like komplisert som å gå tapt i en jungel. CheckUp®Trainer og funksjonelle tester er helsen din sitt eget GPS og sikrer at du fungerer som menneske.'
-datePublished: '2016-04-19T20:08:59.591Z'
-dateModified: '2016-04-19T20:08:38.332Z'
+datePublished: '2016-04-19T20:25:43.825Z'
+dateModified: '2016-04-19T20:09:05.552Z'
 author:
   - name: Pontus Lüttkens
     url: 'https://no.linkedin.com/in/pontus-lüttkens-413a1270'
