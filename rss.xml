@@ -4,15 +4,8 @@
         <description><![CDATA[Funksjonell testing & Foundation Training]]></description>
         <link>http://2ft.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 11:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 12:35:05 GMT</lastBuildDate>
         <atom:link href="http://2ft.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Foundation Trainer]]></title>
-            <description><![CDATA[<article><h1>Foundation Trainer</h1><p>Yann Erik - meget kompetent trener og surfer. Besøk han i Løten. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67106b39-68c1-454c-828d-7f9de3ca29ca.png"></article>]]></description>
-            <link>http://2ft.io/foundation-trainer/index.html</link>
-            <guid isPermaLink="false">b43b6597-11c8-4a4d-aeaa-1a12b4402cf5</guid>
-            <pubDate>Tue, 26 Apr 2016 11:34:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[CheckUp din bedrift]]></title>
             <description><![CDATA[<article><h1>CheckUp din bedrift</h1><p>Funksjonell testing er et tilbud for din bedrift og deres ansatte som gir et tydelig startpunkt og slut i det man trener eller tar behandling. For å vite hvor dine ansatte er når vi starter og hva forandringen av implementert løsning er bruker vi verktøyet CheckUp Trainer samt en samling funksjonelle tester som kalles KNA (Kroppslig Nåtids Analyse). Portalen sammenstiller data fra testing og gir et helhetsbilde av kroppen på en meget tydelig måte slik at det er enkelt å vite årsak til problem og bekreftelse på resultat. Resultat kan og sammenstilles gruppevis slik att man kan se utviklingen fra behandling og trening på hele bedriften som helhet. </p></article>]]></description>
