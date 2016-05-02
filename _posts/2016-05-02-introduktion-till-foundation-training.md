@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Pontus Lüttkens är certifierad av Dr. Eric Goodman, specialist i praktisk/funktionell anatomi, och har över 8 års erfarenhet som massageterapeut och lång träningsbakgrund i olika idrotter. Han kommer vägleda dig i de grundläggande övningarna och förklara principerna bakom träningssystemet. '
-datePublished: '2016-05-02T20:07:59.445Z'
-dateModified: '2016-05-02T20:07:49.028Z'
+datePublished: '2016-05-02T20:24:19.229Z'
+dateModified: '2016-05-02T20:22:39.824Z'
 author:
   - name: ''
     url: ''
@@ -35,7 +35,7 @@ Pontus Lüttkens är certifierad av Dr. Eric Goodman, specialist i praktisk/funk
 Är du intresserad av att veta mer om Foundation Training så kan du besöka hemsidan, [www.foundationtraining.com][0]. De grundläggande övningarna är generöst förklarade för offentlig åtkomst på internet.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f90ece909285ea58345e92ef0567304eda675cc6.jpg)
 
-Hjärtligt välkomna på introduktion till framtidens träningmetodik - Foundation Training. Vi startar denna resa på vackert belägna S.A.L.T Studio i Saltsjöbaden. [www.saltstudio.se][1]. Klicka [här][2] för karta.
+Hjärtligt välkomna på introduktion till framtidens träningmetodik - Foundation Training. Vi startar denna resa på vackert belägna S.A.L.T Studio i Saltsjöbaden. [www.saltstudio.se][1]
 
 **Lördag 21 maj 2016 **
 
@@ -48,15 +48,13 @@ Hjärtligt välkomna på introduktion till framtidens träningmetodik - Foundati
 
 * 1\. 11.30 - 12.30 
 * 2\. 13.00 - 14.00 
-* 3\. 14.30 - 15.30 
-
-****
+* 3\. 14.30 - 15.30
 
 **Pris:** 200 kr per deltagare / timme. Betalas på plats. Kort eller kontant. Maximalt 5 st per grupp. Träningskläder och ev egen yogamatta. Passen är på 60 minuter.
 
 **Anmälan** görs direkt till Pontus, som också gärna svarar på frågor: 
 
-[Klicka här!][3]
+[Klicka här!][2]
 
 Välkommen! 
 
@@ -64,5 +62,4 @@ Pontus Lüttkens - _Funktionell Testledare, Foundating Training Instructor, Mass
 
 [0]: www.foundationtraining.com
 [1]: www.saltstudio.se
-[2]: https://www.google.com/maps/dir//59.278744,18.3110523/@59.2975462,18.1924136,12z?hl=en
-[3]: mailto:pontusluttkens@gmail.com
+[2]: mailto:pontusluttkens@gmail.com
