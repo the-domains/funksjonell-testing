@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Pontus Lüttkens är certifierad av Dr. Eric Goodman, och arbetar med praktisk/funktionell anatomi, och har över 8 års erfarenhet som massageterapeut och lång träningsbakgrund i olika idrotter. Han kommer vägleda dig i de grundläggande övningarna och förklara principerna bakom träningssystemet. '
-datePublished: '2016-05-02T20:36:04.767Z'
-dateModified: '2016-05-02T20:35:40.434Z'
+datePublished: '2016-05-02T20:38:39.525Z'
+dateModified: '2016-05-02T20:38:37.338Z'
 author:
   - name: ''
     url: ''
