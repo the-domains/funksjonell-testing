@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Upplev träningssystemet Foundation Training, som har utvecklats av Dr Eric Goodman och hans team i Kalifornien. Övningarna i Foundation Training är grundläggande för kroppens rörelsemönster och funktion. De hjälper dig till en starkare kropp, gör dig bättre i alla träningssituationer samt framförallt att du blir av med olika smärttillstånd i muskler och leder. '
-datePublished: '2016-05-02T20:57:20.222Z'
-dateModified: '2016-05-02T20:56:37.961Z'
+datePublished: '2016-05-02T20:57:40.388Z'
+dateModified: '2016-05-02T20:57:33.284Z'
 author:
   - name: ''
     url: ''
@@ -35,7 +35,7 @@ Pontus Lüttkens är certifierad av Dr. Eric Goodman, och arbetar med praktisk/f
 Är du intresserad av att veta mer om Foundation Training så kan du besöka hemsidan, [www.foundationtraining.com][0]. De grundläggande övningarna är generöst förklarade för offentlig åtkomst på internet.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d562327-ff88-4dfb-9ff4-1556457daeae.jpg)
 
-Hjärtligt välkomna på introduktion till framtidens träningmetodik - Foundation Training. Vi startar denna resa på vackert belägna S.A.L.T Studio i Saltsjöbaden. [www.saltstudio.se][1]  
+Hjärtligt välkomna på introduktion till framtidens träningmetodik - Foundation Training. Vi startar denna resa på vackert belägna S.A.L.T Studio i Saltsjöbaden. [www.saltstudio.se][1]
 
 **Lördag 21 maj 2016:** 09.00-10.00 / 10.30-11.30 / 13.00-14.00 / 14.30-15.30
 
