@@ -23,7 +23,7 @@ color:
     - '#b2b2b2'
     - '#626262'
   brandStrength: 0.125
-  lightness: 0.3125
+  lightness: 1
   saturation: 0.125
   rhythmicContrast: 0.25
 purpose: []
