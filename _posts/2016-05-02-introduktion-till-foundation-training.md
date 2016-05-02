@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Pontus Lüttkens är certifierad av Dr. Eric Goodman, specialist i praktisk/funktionell anatomi, och har över 8 års erfarenhet som massageterapeut och lång träningsbakgrund i olika idrotter. Han kommer vägleda dig i de grundläggande övningarna och förklara principerna bakom träningssystemet. '
-datePublished: '2016-05-02T20:26:08.663Z'
-dateModified: '2016-05-02T20:26:03.702Z'
+datePublished: '2016-05-02T20:26:31.385Z'
+dateModified: '2016-05-02T20:26:26.693Z'
 author:
   - name: ''
     url: ''
@@ -28,7 +28,7 @@ _type: Article
 # Introduktion till Foundation Training
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfecda62c459e5c790d58667c9bf5d92ae3fcced.jpg)
 
-**Upplev träningssystemet Foundation Training, som har utvecklats av Dr Eric Goodman och hans team i Kalifornien. Övningarna i Foundation Training är grundläggande för kroppens rörelsemönster och funktion. De hjälper dig till en starkare kropp, gör dig bättre i alla träningssituationer samt framför allt att du blir av med olika smärttillstånd i muskler och leder. **
+**Upplev träningssystemet Foundation Training, som har utvecklats av Dr Eric Goodman och hans team i Kalifornien. Övningarna i Foundation Training är grundläggande för kroppens rörelsemönster och funktion. De hjälper dig till en starkare kropp, gör dig bättre i alla träningssituationer samt framförallt att du blir av med olika smärttillstånd i muskler och leder. **
 
 Pontus Lüttkens är certifierad av Dr. Eric Goodman, specialist i praktisk/funktionell anatomi, och har över 8 års erfarenhet som massageterapeut och lång träningsbakgrund i olika idrotter. Han kommer vägleda dig i de grundläggande övningarna och förklara principerna bakom träningssystemet. 
 
