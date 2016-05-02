@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Pontus Lüttkens är certifierad av Dr. Eric Goodman, och arbetar praktisk/funktionell anatomi, och har över 8 års erfarenhet som massageterapeut och lång träningsbakgrund i olika idrotter. Han kommer vägleda dig i de grundläggande övningarna och förklara principerna bakom träningssystemet. '
-datePublished: '2016-05-02T20:35:15.763Z'
-dateModified: '2016-05-02T20:35:01.948Z'
+description: 'Pontus Lüttkens är certifierad av Dr. Eric Goodman, och arbetar med praktisk/funktionell anatomi, och har över 8 års erfarenhet som massageterapeut och lång träningsbakgrund i olika idrotter. Han kommer vägleda dig i de grundläggande övningarna och förklara principerna bakom träningssystemet. '
+datePublished: '2016-05-02T20:36:04.767Z'
+dateModified: '2016-05-02T20:35:40.434Z'
 author:
   - name: ''
     url: ''
@@ -30,7 +30,7 @@ _type: Article
 
 **Upplev träningssystemet Foundation Training, som har utvecklats av Dr Eric Goodman och hans team i Kalifornien. Övningarna i Foundation Training är grundläggande för kroppens rörelsemönster och funktion. De hjälper dig till en starkare kropp, gör dig bättre i alla träningssituationer samt framförallt att du blir av med olika smärttillstånd i muskler och leder. **
 
-Pontus Lüttkens är certifierad av Dr. Eric Goodman, och arbetar praktisk/funktionell anatomi, och har över 8 års erfarenhet som massageterapeut och lång träningsbakgrund i olika idrotter. Han kommer vägleda dig i de grundläggande övningarna och förklara principerna bakom träningssystemet. 
+Pontus Lüttkens är certifierad av Dr. Eric Goodman, och arbetar med praktisk/funktionell anatomi, och har över 8 års erfarenhet som massageterapeut och lång träningsbakgrund i olika idrotter. Han kommer vägleda dig i de grundläggande övningarna och förklara principerna bakom träningssystemet. 
 
 Är du intresserad av att veta mer om Foundation Training så kan du besöka hemsidan, [www.foundationtraining.com][0]. De grundläggande övningarna är generöst förklarade för offentlig åtkomst på internet.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f90ece909285ea58345e92ef0567304eda675cc6.jpg)
