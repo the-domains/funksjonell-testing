@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Pontus Lüttkens är certifierad av Dr. Eric Goodman, specialist i praktisk/funktionell anatomi, och har över 8 års erfarenhet som massageterapeut och lång träningsbakgrund i olika idrotter. Han kommer vägleda dig i de grundläggande övningarna och förklara principerna bakom träningssystemet. '
-datePublished: '2016-05-02T20:26:31.385Z'
-dateModified: '2016-05-02T20:26:26.693Z'
+description: 'Pontus Lüttkens är certifierad av Dr. Eric Goodman, och arbetar praktisk/funktionell anatomi, och har över 8 års erfarenhet som massageterapeut och lång träningsbakgrund i olika idrotter. Han kommer vägleda dig i de grundläggande övningarna och förklara principerna bakom träningssystemet. '
+datePublished: '2016-05-02T20:35:15.763Z'
+dateModified: '2016-05-02T20:35:01.948Z'
 author:
   - name: ''
     url: ''
@@ -30,36 +30,27 @@ _type: Article
 
 **Upplev träningssystemet Foundation Training, som har utvecklats av Dr Eric Goodman och hans team i Kalifornien. Övningarna i Foundation Training är grundläggande för kroppens rörelsemönster och funktion. De hjälper dig till en starkare kropp, gör dig bättre i alla träningssituationer samt framförallt att du blir av med olika smärttillstånd i muskler och leder. **
 
-Pontus Lüttkens är certifierad av Dr. Eric Goodman, specialist i praktisk/funktionell anatomi, och har över 8 års erfarenhet som massageterapeut och lång träningsbakgrund i olika idrotter. Han kommer vägleda dig i de grundläggande övningarna och förklara principerna bakom träningssystemet. 
+Pontus Lüttkens är certifierad av Dr. Eric Goodman, och arbetar praktisk/funktionell anatomi, och har över 8 års erfarenhet som massageterapeut och lång träningsbakgrund i olika idrotter. Han kommer vägleda dig i de grundläggande övningarna och förklara principerna bakom träningssystemet. 
 
 Är du intresserad av att veta mer om Foundation Training så kan du besöka hemsidan, [www.foundationtraining.com][0]. De grundläggande övningarna är generöst förklarade för offentlig åtkomst på internet.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f90ece909285ea58345e92ef0567304eda675cc6.jpg)
 
 Hjärtligt välkomna på introduktion till framtidens träningmetodik - Foundation Training. Vi startar denna resa på vackert belägna S.A.L.T Studio i Saltsjöbaden. [www.saltstudio.se][1]
 
-**Lördag 21 maj 2016 **
+**Lördag 21 maj 2016:** 09.00-10.00 / 10.30-11.30 / 13.00-14.00 / 14.30-15.30
 
-* 1\. 09.00 -10.00 
-* 2\. 10.30 - 11.30 
-* 3\. 13.00 - 14.00 
-* 4\. 14.30 - 15.30 
-
-**Söndag 22 maj 2016 **
-
-* 1\. 11.30 - 12.30 
-* 2\. 13.00 - 14.00 
-* 3\. 14.30 - 15.30
+**Söndag 22 maj 2016:** 11.30-12.30 / 13.00-14.00 / 14.30-15.30
 
 **Pris:** 200 kr per deltagare / timme. Betalas på plats. Kort eller kontant. Maximalt 5 st per grupp. Träningskläder och ev egen yogamatta. Passen är på 60 minuter.
 
-**Anmälan** görs direkt till Pontus, som också gärna svarar på frågor: 
+**Anmälan** görs direkt till Pontus, som också gärna svarar på frågor.
 
 [Klicka här!][2]
 
-Välkommen! 
+Välkommen!
 
 Pontus Lüttkens - _Funktionell Testledare, Foundating Training Instructor, Massageterapeut, Certifierad Skidlärare & Meriterad Skidåkare_
 
 [0]: www.foundationtraining.com
 [1]: www.saltstudio.se
-[2]: mailto:pontusluttkens@gmail.com
+[2]: null
