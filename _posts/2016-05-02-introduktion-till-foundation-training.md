@@ -4,13 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Pontus Lüttkens är certifierad av Dr. Eric Goodman, och arbetar med praktisk/funktionell anatomi, och har över 8 års erfarenhet som massageterapeut och lång träningsbakgrund i olika idrotter. Han kommer vägleda dig i de grundläggande övningarna och förklara principerna bakom träningssystemet. '
-datePublished: '2016-05-02T20:38:39.525Z'
-dateModified: '2016-05-02T20:38:37.338Z'
+description: 'Upplev träningssystemet Foundation Training, som har utvecklats av Dr Eric Goodman och hans team i Kalifornien. Övningarna i Foundation Training är grundläggande för kroppens rörelsemönster och funktion. De hjälper dig till en starkare kropp, gör dig bättre i alla träningssituationer samt framförallt att du blir av med olika smärttillstånd i muskler och leder. '
+datePublished: '2016-05-02T20:57:20.222Z'
+dateModified: '2016-05-02T20:56:37.961Z'
 author:
   - name: ''
     url: ''
-title: ''
+title: Introduktion till Foundation Training
 sourcePath: _posts/2016-05-02-introduktion-till-foundation-training.md
 published: true
 authors: []
@@ -33,9 +33,9 @@ _type: Article
 Pontus Lüttkens är certifierad av Dr. Eric Goodman, och arbetar med praktisk/funktionell anatomi, och har över 8 års erfarenhet som massageterapeut och lång träningsbakgrund i olika idrotter. Han kommer vägleda dig i de grundläggande övningarna och förklara principerna bakom träningssystemet. 
 
 Är du intresserad av att veta mer om Foundation Training så kan du besöka hemsidan, [www.foundationtraining.com][0]. De grundläggande övningarna är generöst förklarade för offentlig åtkomst på internet.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f90ece909285ea58345e92ef0567304eda675cc6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d562327-ff88-4dfb-9ff4-1556457daeae.jpg)
 
-Hjärtligt välkomna på introduktion till framtidens träningmetodik - Foundation Training. Vi startar denna resa på vackert belägna S.A.L.T Studio i Saltsjöbaden. [www.saltstudio.se][1]
+Hjärtligt välkomna på introduktion till framtidens träningmetodik - Foundation Training. Vi startar denna resa på vackert belägna S.A.L.T Studio i Saltsjöbaden. [www.saltstudio.se][1]  
 
 **Lördag 21 maj 2016:** 09.00-10.00 / 10.30-11.30 / 13.00-14.00 / 14.30-15.30
 
@@ -53,4 +53,4 @@ Pontus Lüttkens - _Funktionell Testledare, Foundating Training Instructor, Mass
 
 [0]: www.foundationtraining.com
 [1]: www.saltstudio.se
-[2]: null
+[2]: mailto:pontusluttkens@gmail.com
