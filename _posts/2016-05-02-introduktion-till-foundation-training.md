@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Upplev träningssystemet Foundation Training, som har utvecklats av Dr Eric Goodman och hans team i Kalifornien. Övningarna i Foundation Training är grundläggande för kroppens rörelsemönster och funktion. De hjälper dig till en starkare kropp, gör dig bättre i alla träningssituationer samt framförallt att du blir av med olika smärttillstånd i muskler och leder. '
-datePublished: '2016-05-18T11:47:07.599Z'
-dateModified: '2016-05-18T11:46:51.070Z'
+description: 'Upptäck träningssystemet Foundation Training, som har utvecklats av Dr Eric Goodman och hans team i Kalifornien. Övningarna i Foundation Training är grundläggande för kroppens rörelsemönster och funktion. De hjälper dig till en starkare kropp, gör dig bättre i alla träningssituationer samt framförallt att du blir av med olika smärttillstånd i muskler och leder. '
+datePublished: '2016-05-18T16:29:49.878Z'
+dateModified: '2016-05-18T16:29:04.628Z'
 author:
   - name: ''
     url: ''
@@ -27,7 +27,7 @@ _type: Article
 # Introduktion till Foundation Training
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfecda62c459e5c790d58667c9bf5d92ae3fcced.jpg)
 
-**Upplev träningssystemet Foundation Training, som har utvecklats av Dr Eric Goodman och hans team i Kalifornien. Övningarna i Foundation Training är grundläggande för kroppens rörelsemönster och funktion. De hjälper dig till en starkare kropp, gör dig bättre i alla träningssituationer samt framförallt att du blir av med olika smärttillstånd i muskler och leder. **
+**Upptäck träningssystemet Foundation Training, som har utvecklats av Dr Eric Goodman och hans team i Kalifornien. Övningarna i Foundation Training är grundläggande för kroppens rörelsemönster och funktion. De hjälper dig till en starkare kropp, gör dig bättre i alla träningssituationer samt framförallt att du blir av med olika smärttillstånd i muskler och leder. **
 
 Pontus Lüttkens är certifierad av Dr. Eric Goodman, och arbetar med praktisk/funktionell anatomi, och har över 8 års erfarenhet som massageterapeut och lång träningsbakgrund i olika idrotter. Han kommer vägleda dig i de grundläggande övningarna och förklara principerna bakom träningssystemet. 
 
