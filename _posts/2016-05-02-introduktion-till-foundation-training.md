@@ -5,14 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Upplev träningssystemet Foundation Training, som har utvecklats av Dr Eric Goodman och hans team i Kalifornien. Övningarna i Foundation Training är grundläggande för kroppens rörelsemönster och funktion. De hjälper dig till en starkare kropp, gör dig bättre i alla träningssituationer samt framförallt att du blir av med olika smärttillstånd i muskler och leder. '
-datePublished: '2016-05-02T20:57:40.388Z'
-dateModified: '2016-05-02T20:57:33.284Z'
+datePublished: '2016-05-18T11:46:44.564Z'
+dateModified: '2016-05-18T11:45:10.059Z'
 author:
   - name: ''
     url: ''
 title: Introduktion till Foundation Training
 sourcePath: _posts/2016-05-02-introduktion-till-foundation-training.md
-published: true
 authors: []
 publisher:
   name: saltstudio.se
