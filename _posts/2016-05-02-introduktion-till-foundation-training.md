@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Upplev träningssystemet Foundation Training, som har utvecklats av Dr Eric Goodman och hans team i Kalifornien. Övningarna i Foundation Training är grundläggande för kroppens rörelsemönster och funktion. De hjälper dig till en starkare kropp, gör dig bättre i alla träningssituationer samt framförallt att du blir av med olika smärttillstånd i muskler och leder. '
-datePublished: '2016-05-18T11:46:44.564Z'
-dateModified: '2016-05-18T11:45:10.059Z'
+datePublished: '2016-05-18T11:47:07.599Z'
+dateModified: '2016-05-18T11:46:51.070Z'
 author:
   - name: ''
     url: ''
