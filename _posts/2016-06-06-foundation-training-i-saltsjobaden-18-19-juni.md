@@ -4,12 +4,14 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Foundation Training med möbelsnickare Mimmi Staaf - Lounge Decompression
-datePublished: '2016-06-06T07:30:22.642Z'
-dateModified: '2016-06-06T07:30:03.006Z'
+description: >-
+  Foundation Training med möbelsnickare Mimmi Staaf 
+  #Anchor#Decompress#Integrate#Repeat
+datePublished: '2016-06-06T07:39:58.070Z'
+dateModified: '2016-06-06T07:39:54.595Z'
 title: Foundation Training i Saltsjöbaden 18-19 juni
 author:
-  - name: Joakim Johansson
+  - name: Fotograf - Joakim Johansson
     url: 'http://www.joakimjohansson.com'
 sourcePath: _posts/2016-06-06-foundation-training-i-saltsjobaden-18-19-juni.md
 authors: []
