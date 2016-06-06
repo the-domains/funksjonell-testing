@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-06T07:20:24.582Z'
-dateModified: '2016-06-06T07:20:16.954Z'
+datePublished: '2016-06-06T07:27:28.120Z'
+dateModified: '2016-06-06T07:25:02.580Z'
 title: Foundation Training i Saltsjöbaden 18-19 juni
 author: []
 sourcePath: _posts/2016-06-06-foundation-training-i-saltsjobaden-18-19-juni.md
