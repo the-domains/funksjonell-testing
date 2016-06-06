@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Foundation Training med möbelsnickare Mimmi Staaf 
   #Anchor#Decompress#Integrate#Repeat
-datePublished: '2016-06-06T21:11:29.693Z'
-dateModified: '2016-06-06T21:11:26.056Z'
+datePublished: '2016-06-06T21:22:35.926Z'
+dateModified: '2016-06-06T21:22:34.630Z'
 title: Foundation Training i Saltsjöbaden 18-19 juni
 author:
   - name: Fotograf - Joakim Johansson
@@ -38,23 +38,23 @@ _Jag heter Pontus Lüttkens, är certifierad av Dr. Eric Goodman, och arbetar me
 
 _[Foundation Training][0] är utvecklat av Dr Eric Goodman och hans team i Kalifornien. Övningarna i Foundation Training är grundläggande för kroppens rörelsemönster och funktion. Att lära sig övningarna kommer att hjälpa dig till en starkare, mer balanserad och rörlig kropp. Du blir bättre i alla träningssituationer och får starkare korsrygg._
 
-## Plats
-
-**S.A.L.T Studio, Saltsjöbaden**, [www.saltstudio.se][1]
+**Platsen är: **S.A.L.T. Studio, Saltsjöbaden, [www.saltstudio.se][1]
 
 **Tiderna är:**
 
-**Lördag 18 juni 2016: **09.00-10.00 / 10.30-11.30 / 13.00-14.00 / 14.30-15.30
+_Lördag 18 juni 2016 kl.__09.00-10.00 / 10.30-11.30 / 13.00-14.00 / 14.30-15.30_
 
-**Söndag 19 juni ****2016****:** 11.30-12.30 / 13.00-14.00 / 14.30-15.30
+_Söndag 19 juni 2016 kl__.11.30-12.30 / 13.00-14.00 / 14.30-15.30_
 
 **Priset är:** 200 kr per person
 
 Svara så fort som möjligt om du och kanske någon vän kommer! Anmälan via e-post till, [pontusluttkens@gmail.com][2] eller använd denna länk, [Pontus Lüttkens kontaktschema][3]
 
-Hjärtligt välkommen! Med Vänlig Hälsning, 
+__
 
-Pontus
+_Hjärtligt välkommen! Med Vänlig Hälsning, _
+
+_Pontus_
 
 Co-Owner / [Markveien Naturmedisinske Senter][4]
 
