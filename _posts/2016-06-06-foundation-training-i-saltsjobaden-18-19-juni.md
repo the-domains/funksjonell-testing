@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-06T07:19:24.904Z'
-dateModified: '2016-06-06T07:19:22.188Z'
+datePublished: '2016-06-06T07:20:10.097Z'
+dateModified: '2016-06-06T07:19:33.751Z'
 title: Foundation Training i Saltsjöbaden 18-19 juni
 author: []
+sourcePath: _posts/2016-06-06-foundation-training-i-saltsjobaden-18-19-juni.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-06-foundation-training-i-saltsjobaden-18-19-juni.md
 url: foundation-training-i-saltsjobaden-18-19-juni/index.html
 _type: Article
 
@@ -62,5 +62,5 @@ Competence / [Foundation Training & Functional Testing][5] - The Arch Method - [
 [2]: mailto:pontusluttkens@gmail.com
 [3]: https://podio.com/webforms/15595616/1045133
 [4]: http://www.mns.no/
-[5]: http://2ft.io
-[6]: http://www.snolykkan.com
+[5]: http://2ft.io/
+[6]: http://www.snolykkan.com/
