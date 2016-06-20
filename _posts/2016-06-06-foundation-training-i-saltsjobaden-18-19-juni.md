@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Foundation Training med möbelsnickare Mimmi Staaf 
   #Anchor#Decompress#Integrate#Repeat
-datePublished: '2016-06-06T21:22:35.926Z'
-dateModified: '2016-06-06T21:22:34.630Z'
+datePublished: '2016-06-20T13:26:13.915Z'
+dateModified: '2016-06-20T13:26:04.685Z'
 title: Foundation Training i Saltsjöbaden 18-19 juni
 author:
   - name: Fotograf - Joakim Johansson
@@ -16,7 +16,7 @@ author:
 sourcePath: _posts/2016-06-06-foundation-training-i-saltsjobaden-18-19-juni.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: foundation-training-i-saltsjobaden-18-19-juni/index.html
 _type: Article
 
