@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-30T16:16:12.279Z'
-dateModified: '2016-06-30T16:16:05.766Z'
+datePublished: '2016-06-30T16:21:51.856Z'
+dateModified: '2016-06-30T16:20:15.775Z'
 title: Hjertelig takk og velkommen!
 author: []
+sourcePath: _posts/2016-06-30-hjertelig-takk-og-velkommen.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-30-hjertelig-takk-og-velkommen.md
 url: hjertelig-takk-og-velkommen/index.html
 _type: MediaObject
 
@@ -35,8 +35,5 @@ Før vi møtes anbefaler jeg deg å lese litt om hva jeg jobber med.
 Vi ses!
 
 Beste hilsen, Pontus
-
-  
-
 
 [0]: mailto:pontus@2ft.io
