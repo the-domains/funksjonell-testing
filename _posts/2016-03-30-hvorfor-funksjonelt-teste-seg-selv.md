@@ -1,32 +1,35 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'Forestill deg selv i en vill jungel med et kart, eller hvorfor ikke Jotunheimen? Du kan finne sikkerhet, komfort og sivilisasjon merket med X. Hvordan kunne du mulig finne veien til X hvis du ikke vet ditt utgangspunkt? Helseproblemer kan være like komplisert som å gå tapt i en jungel. CheckUp®Trainer og funksjonelle tester er helsen din sitt eget GPS og sikrer at du fungerer som menneske.'
-datePublished: '2016-04-19T20:25:43.825Z'
-dateModified: '2016-04-19T20:09:05.552Z'
+description: >-
+  Forestill deg selv i en vill jungel med et kart, eller hvorfor ikke
+  Jotunheimen? Du kan finne sikkerhet, komfort og sivilisasjon merket med X.
+  Hvordan kunne du mulig finne veien til X hvis du ikke vet ditt utgangspunkt?
+  Helseproblemer kan være like komplisert som å gå tapt i en jungel.
+  CheckUp®Trainer og funksjonelle tester er helsen din sitt eget GPS og sikrer
+  at du fungerer som menneske.
+datePublished: '2016-06-30T15:48:20.842Z'
+dateModified: '2016-06-30T15:48:17.479Z'
 author:
   - name: Pontus Lüttkens
     url: 'https://no.linkedin.com/in/pontus-lüttkens-413a1270'
-title: Hvorfor funksjonelt teste seg selv?
+title: En kart og reise over Jotunheimen
 sourcePath: _posts/2016-03-30-hvorfor-funksjonelt-teste-seg-selv.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: hvorfor-funksjonelt-teste-seg-selv/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Hvorfor funksjonelt teste seg selv?
+# Funksjonell Testing
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77f7a017-4fb5-45f4-ab6d-314b58da93b1.jpg)
+
+## Hvorfor funksjonelt teste seg selv?
 
 **Forestill deg selv i en vill jungel med et kart, eller hvorfor ikke Jotunheimen? Du kan finne sikkerhet, komfort og sivilisasjon merket med X. Hvordan kunne du mulig finne veien til X hvis du ikke vet ditt utgangspunkt? Helseproblemer kan være like komplisert som å gå tapt i en jungel. CheckUp(r)Trainer og funksjonelle tester er helsen din sitt eget GPS og sikrer at du fungerer som menneske.**
 
