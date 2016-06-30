@@ -11,8 +11,8 @@ description: >-
   Helseproblemer kan være like komplisert som å gå tapt i en jungel.
   CheckUp®Trainer og funksjonelle tester er helsen din sitt eget GPS og sikrer
   at du fungerer som menneske.
-datePublished: '2016-06-30T15:48:20.842Z'
-dateModified: '2016-06-30T15:48:17.479Z'
+datePublished: '2016-06-30T16:24:33.303Z'
+dateModified: '2016-06-30T16:24:23.810Z'
 author:
   - name: Pontus Lüttkens
     url: 'https://no.linkedin.com/in/pontus-lüttkens-413a1270'
