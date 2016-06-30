@@ -8,14 +8,14 @@ keywords: []
 description: >-
   Fantastiskt kul och lärorik helg. Speciellt tack till Øyvind och Yann-Eric för
   härligt sällskap! #foundationtraining #anchor #decompress #integrate 
-datePublished: '2016-06-20T13:26:51.128Z'
-dateModified: '2016-06-20T13:26:44.979Z'
+datePublished: '2016-06-30T16:16:25.711Z'
+dateModified: '2016-06-30T16:16:25.219Z'
 author: []
 title: Tack för denna helg!
 sourcePath: _posts/2016-06-19-tack-for-denna-helg.md
 authors: []
 publisher: null
-starred: true
+starred: false
 _type: Blurb
 
 ---
