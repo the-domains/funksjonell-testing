@@ -4,8 +4,15 @@
         <description><![CDATA[Funksjonell testing & Foundation Training]]></description>
         <link>http://2ft.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 15:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 16:19:42 GMT</lastBuildDate>
         <atom:link href="http://2ft.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Verktøyet - CheckUp Trainer]]></title>
+            <description><![CDATA[<article><h1>Verktøyet - CheckUp Trainer</h1><p>Pontus fra CheckUp vil gi deg en presentasjon og smak av den funksjonelle testingen, KNA (Kroppslig Nåtid Analyse) och portalen Check Up. www.checkuptrainer.se</p></article>]]></description>
+            <link>http://2ft.io/innforing-av-funksjonell-testing/index.html</link>
+            <guid isPermaLink="false">a08bbdeb-6c4e-4c65-88f6-27bb2c3a4b2e</guid>
+            <pubDate>Thu, 30 Jun 2016 16:19:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bedrift]]></title>
             <description><![CDATA[<article><h1>Bedrift</h1><p>Funksjonell testing er et tilbud for din bedrift og deres ansatte som gir et tydelig startpunkt og slut i det man trener eller tar behandling. For å vite hvor dine ansatte er når vi starter og hva forandringen av implementert løsning er bruker vi verktøyet CheckUp Trainer samt en samling funksjonelle tester som kalles KNA (Kroppslig Nåtids Analyse). Portalen sammenstiller data fra testing og gir et helhetsbilde av kroppen på en meget tydelig måte slik at det er enkelt å vite årsak til problem og bekreftelse på resultat. Resultat kan og sammenstilles gruppevis slik att man kan se utviklingen fra behandling og trening på hele bedriften som helhet. </p></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://2ft.io/introduktion-till-foundation-training/index.html</link>
             <guid isPermaLink="false">2f1f5593-3257-4bcb-8b7e-dc2933e92ba4</guid>
             <pubDate>Mon, 06 Jun 2016 07:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introduksjon i Funksjonell Testing]]></title>
-            <description><![CDATA[<article><h1>Introduksjon i Funksjonell Testing</h1><p>Teste deler av en funksjonell test med kartlagt bilde i CheckUp Trainer. Eventet retter seg mot trenere/terapeuter som vil bruke verktøyet CheckUp i Norge, men du som ikke er trener eller terapeut er og hjertligt velkommen.</p></article>]]></description>
-            <link>http://2ft.io/innforing-av-funksjonell-testing/index.html</link>
-            <guid isPermaLink="false">a08bbdeb-6c4e-4c65-88f6-27bb2c3a4b2e</guid>
-            <pubDate>Mon, 06 Jun 2016 07:19:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fundamental trening for all idrett og livsstiler]]></title>
