@@ -4,8 +4,15 @@
         <description><![CDATA[Funksjonell testing & Foundation Training]]></description>
         <link>http://2ft.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 15:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 15:54:16 GMT</lastBuildDate>
         <atom:link href="http://2ft.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bedrift]]></title>
+            <description><![CDATA[<article><h1>Bedrift</h1><p>Funksjonell testing er et tilbud for din bedrift og deres ansatte som gir et tydelig startpunkt og slut i det man trener eller tar behandling. For å vite hvor dine ansatte er når vi starter og hva forandringen av implementert løsning er bruker vi verktøyet CheckUp Trainer samt en samling funksjonelle tester som kalles KNA (Kroppslig Nåtids Analyse). Portalen sammenstiller data fra testing og gir et helhetsbilde av kroppen på en meget tydelig måte slik at det er enkelt å vite årsak til problem og bekreftelse på resultat. Resultat kan og sammenstilles gruppevis slik att man kan se utviklingen fra behandling og trening på hele bedriften som helhet. </p></article>]]></description>
+            <link>http://2ft.io/bedrift/index.html</link>
+            <guid isPermaLink="false">470036d7-08be-4ab9-9675-da1539bacd53</guid>
+            <pubDate>Thu, 30 Jun 2016 15:54:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[En kart og reise over Jotunheimen]]></title>
             <description><![CDATA[<article><h1>En kart og reise over Jotunheimen</h1><p>Forestill deg selv i en vill jungel med et kart, eller hvorfor ikke Jotunheimen? Du kan finne sikkerhet, komfort og sivilisasjon merket med X. Hvordan kunne du mulig finne veien til X hvis du ikke vet ditt utgangspunkt? Helseproblemer kan være like komplisert som å gå tapt i en jungel. CheckUp®Trainer og funksjonelle tester er helsen din sitt eget GPS og sikrer at du fungerer som menneske.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77f7a017-4fb5-45f4-ab6d-314b58da93b1.jpg"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>https://www.instagram.com/p/BEUOFvIFwlB/?taken-by=snolykkan</link>
             <guid isPermaLink="false">f7e6367c-d958-4e40-a138-700c626917ef</guid>
             <pubDate>Mon, 02 May 2016 20:24:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CheckUp din bedrift]]></title>
-            <description><![CDATA[<article><h1>CheckUp din bedrift</h1><p>Funksjonell testing er et tilbud for din bedrift og deres ansatte som gir et tydelig startpunkt og slut i det man trener eller tar behandling. For å vite hvor dine ansatte er når vi starter og hva forandringen av implementert løsning er bruker vi verktøyet CheckUp Trainer samt en samling funksjonelle tester som kalles KNA (Kroppslig Nåtids Analyse). Portalen sammenstiller data fra testing og gir et helhetsbilde av kroppen på en meget tydelig måte slik at det er enkelt å vite årsak til problem og bekreftelse på resultat. Resultat kan og sammenstilles gruppevis slik att man kan se utviklingen fra behandling og trening på hele bedriften som helhet. </p></article>]]></description>
-            <link>http://2ft.io/bedrift/index.html</link>
-            <guid isPermaLink="false">470036d7-08be-4ab9-9675-da1539bacd53</guid>
-            <pubDate>Mon, 02 May 2016 20:08:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
