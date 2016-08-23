@@ -28,6 +28,9 @@ navigation:
   - name: Om 2FT.io
     id: 54cc60e2-effd-4066-a32f-8500427431ee
     type: content
+  - name: Bedrift
+    id: 470036d7-08be-4ab9-9675-da1539bacd53
+    type: content
 favicon: null
 collections:
   - index:
