@@ -24,6 +24,10 @@ cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: Om 2FT.io
+    id: 54cc60e2-effd-4066-a32f-8500427431ee
+    type: content
 favicon: null
 collections:
   - index:
