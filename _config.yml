@@ -31,7 +31,7 @@ navigation:
   - name: Bedrift
     id: 470036d7-08be-4ab9-9675-da1539bacd53
     type: content
-  - name: CheckUp Trainer
+  - name: CheckUpTrainer
     id: a08bbdeb-6c4e-4c65-88f6-27bb2c3a4b2e
     type: content
 favicon: null
