@@ -4,8 +4,15 @@
         <description><![CDATA[SNØLYKKAN TERAPEUTISKA]]></description>
         <link>http://2ft.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 17:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 17:05:10 GMT</lastBuildDate>
         <atom:link href="http://2ft.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Verktøyet - CheckUp Trainer]]></title>
+            <description><![CDATA[<article><h1>Verktøyet - CheckUp Trainer</h1><p>Pontus fra CheckUp vil gi deg en presentasjon og smak av den funksjonelle testingen, KNA (Kroppslig Nåtid Analyse) och portalen Check Up. www.checkuptrainer.se</p></article>]]></description>
+            <link>http://2ft.io/innforing-av-funksjonell-testing/index.html</link>
+            <guid isPermaLink="false">a08bbdeb-6c4e-4c65-88f6-27bb2c3a4b2e</guid>
+            <pubDate>Tue, 23 Aug 2016 17:04:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bedrift]]></title>
             <description><![CDATA[<article><h1>Bedrift</h1><p>Funksjonell testing er et tilbud for din bedrift og deres ansatte som gir et tydelig startpunkt og slut i det man trener eller tar behandling. For å vite hvor dine ansatte er når vi starter og hva forandringen av implementert løsning er bruker vi verktøyet CheckUp Trainer samt en samling funksjonelle tester som kalles KNA (Kroppslig Nåtids Analyse). Portalen sammenstiller data fra testing og gir et helhetsbilde av kroppen på en meget tydelig måte slik at det er enkelt å vite årsak til problem og bekreftelse på resultat. Resultat kan og sammenstilles gruppevis slik att man kan se utviklingen fra behandling og trening på hele bedriften som helhet. </p></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://2ft.io/hvorfor-funksjonelt-teste-seg-selv/index.html</link>
             <guid isPermaLink="false">6f13ffaf-b1aa-4456-b078-beb42f58ee7e</guid>
             <pubDate>Thu, 30 Jun 2016 16:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Verktøyet - CheckUp Trainer]]></title>
-            <description><![CDATA[<article><h1>Verktøyet - CheckUp Trainer</h1><p>Pontus fra CheckUp vil gi deg en presentasjon og smak av den funksjonelle testingen, KNA (Kroppslig Nåtid Analyse) och portalen Check Up. www.checkuptrainer.se</p></article>]]></description>
-            <link>http://2ft.io/innforing-av-funksjonell-testing/index.html</link>
-            <guid isPermaLink="false">a08bbdeb-6c4e-4c65-88f6-27bb2c3a4b2e</guid>
-            <pubDate>Thu, 30 Jun 2016 16:19:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Foundation Training i Saltsjöbaden 18-19 juni]]></title>
