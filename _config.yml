@@ -25,7 +25,7 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: Book time
+  - name: BOOK TIME
     id: 9f84da93-62c3-4acb-915a-9e44d0f02f91
     type: content
   - name: BEDRIFT
