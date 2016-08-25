@@ -28,11 +28,11 @@ navigation:
   - name: Book time
     id: 9f84da93-62c3-4acb-915a-9e44d0f02f91
     type: content
-  - name: Om 2FT.io
-    id: 54cc60e2-effd-4066-a32f-8500427431ee
-    type: content
   - name: Bedrift
     id: 470036d7-08be-4ab9-9675-da1539bacd53
+    type: content
+  - name: Om 2FT.io
+    id: 54cc60e2-effd-4066-a32f-8500427431ee
     type: content
   - name: CheckUpTrainer
     id: a08bbdeb-6c4e-4c65-88f6-27bb2c3a4b2e
