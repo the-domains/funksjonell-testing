@@ -4,8 +4,15 @@
         <description><![CDATA[SNØLYKKAN TERAPEUTISKA]]></description>
         <link>http://2ft.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 14:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 14:25:36 GMT</lastBuildDate>
         <atom:link href="http://2ft.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Funksjonell Testing]]></title>
+            <description><![CDATA[<article><h1>Funksjonell Testing</h1><h2>Hvorfor funksjonelt teste seg selv?</h2><p>Forestill deg selv i en vill jungel med et kart, eller hvorfor ikke Jotunheimen? Du kan finne sikkerhet, komfort og sivilisasjon merket med X. Hvordan kunne du mulig finne veien til X hvis du ikke vet ditt utgangspunkt? Helseproblemer kan være like komplisert som å gå tapt i en jungel. CheckUp®Trainer og funksjonelle tester er helsen din sitt eget GPS og sikrer at du fungerer som menneske.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77f7a017-4fb5-45f4-ab6d-314b58da93b1.jpg"></article>]]></description>
+            <link>http://2ft.io/hvorfor-funksjonelt-teste-seg-selv/index.html</link>
+            <guid isPermaLink="false">6f13ffaf-b1aa-4456-b078-beb42f58ee7e</guid>
+            <pubDate>Thu, 25 Aug 2016 14:25:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bedrift]]></title>
             <description><![CDATA[<article><h1>Bedrift</h1><h2>CheckUp din bedrift! 2FTs tilbud til bedrifter bedre helse og prestasjon i bedriften og bygger på tre grunnpilarer: kunnskap, langsiktig holdbar utvikling samt effektive behandling og treningsmetoder.</h2><p>Funksjonell testing er et tilbud for din bedrift og deres ansatte som gir et tydelig startpunkt og slut i det man trener eller tar behandling. For å vite hvor dine ansatte er når vi starter og hva forandringen av implementert løsning er bruker vi verktøyet CheckUp Trainer samt en samling funksjonelle tester som kalles KNA (Kroppslig Nåtids Analyse). Portalen sammenstiller data fra testing og gir et helhetsbilde av kroppen på en meget tydelig måte slik at det er enkelt å vite årsak til problem og bekreftelse på resultat. Resultat kan og sammenstilles gruppevis slik att man kan se utviklingen fra behandling og trening på hele bedriften som helhet.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a8da3ef-1620-4d85-b498-be56d126d32f.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>http://2ft.io/innforing-av-funksjonell-testing/index.html</link>
             <guid isPermaLink="false">a08bbdeb-6c4e-4c65-88f6-27bb2c3a4b2e</guid>
             <pubDate>Thu, 25 Aug 2016 14:22:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[En kart og reise over Jotunheimen]]></title>
-            <description><![CDATA[<article><h1>En kart og reise over Jotunheimen</h1><p>Forestill deg selv i en vill jungel med et kart, eller hvorfor ikke Jotunheimen? Du kan finne sikkerhet, komfort og sivilisasjon merket med X. Hvordan kunne du mulig finne veien til X hvis du ikke vet ditt utgangspunkt? Helseproblemer kan være like komplisert som å gå tapt i en jungel. CheckUp®Trainer og funksjonelle tester er helsen din sitt eget GPS og sikrer at du fungerer som menneske.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77f7a017-4fb5-45f4-ab6d-314b58da93b1.jpg"></article>]]></description>
-            <link>http://2ft.io/hvorfor-funksjonelt-teste-seg-selv/index.html</link>
-            <guid isPermaLink="false">6f13ffaf-b1aa-4456-b078-beb42f58ee7e</guid>
-            <pubDate>Thu, 30 Jun 2016 16:24:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Foundation Training i Saltsjöbaden 18-19 juni]]></title>
