@@ -19,12 +19,15 @@ analytics:
   twitter: null
   google: UA-76297240-1
   facebook: null
-name: 2FT.io
+name: SNØLYKKAN - BEHANDLING & KURS
 cta:
   bucket: null
   version: null
   domain: null
 navigation:
+  - name: Book time
+    id: 9f84da93-62c3-4acb-915a-9e44d0f02f91
+    type: content
   - name: Om 2FT.io
     id: 54cc60e2-effd-4066-a32f-8500427431ee
     type: content
@@ -37,9 +40,6 @@ navigation:
   - name: ARCHMETHOD
     url: 'http://www.thearchmethod.com'
     type: external
-  - name: Book time
-    id: 9f84da93-62c3-4acb-915a-9e44d0f02f91
-    type: content
 favicon: null
 collections:
   - index:
