@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:17:37.988Z'
+datePublished: '2016-08-25T14:27:08.202Z'
 sourcePath: _posts/2016-06-30-hjertelig-takk-og-velkommen.md
 inFeed: false
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T14:17:36.940Z'
+dateModified: '2016-08-25T14:27:07.569Z'
 title: Hjertelig takk og velkommen!
 publisher: {}
-description: ''
+description: 'E-post: pontus@2ft.io'
 inLanguage: null
 inNav: false
 starred: false
@@ -25,7 +25,7 @@ _type: MediaObject
 
 E-post: [pontus@2ft.io][0]
 
-Ring: 23 22 66 90
+Ring: 47 29 04 38
 
 Før vi møtes anbefaler jeg deg å lese litt om hva jeg jobber med.
 
