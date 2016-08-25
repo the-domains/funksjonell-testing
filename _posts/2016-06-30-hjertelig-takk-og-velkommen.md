@@ -1,17 +1,18 @@
 ---
-inFeed: false
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-06-30T16:21:51.856Z'
-dateModified: '2016-06-30T16:20:15.775Z'
-title: Hjertelig takk og velkommen!
-author: []
+datePublished: '2016-08-25T14:17:37.988Z'
 sourcePath: _posts/2016-06-30-hjertelig-takk-og-velkommen.md
+inFeed: false
 authors: []
-publisher: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-25T14:17:36.940Z'
+title: Hjertelig takk og velkommen!
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
 starred: false
 url: hjertelig-takk-og-velkommen/index.html
 _type: MediaObject
@@ -26,7 +27,7 @@ E-post: [pontus@2ft.io][0]
 
 Ring: 23 22 66 90
 
-Før vi møtes anbefaler jeg deg å lese litt om hva jeg jobber med. 
+Før vi møtes anbefaler jeg deg å lese litt om hva jeg jobber med.
 
 * Funksjonell Testing (linker kommer)
 * Foundation Training (linker kommer)
