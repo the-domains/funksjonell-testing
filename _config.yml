@@ -34,12 +34,12 @@ navigation:
   - name: CheckUpTrainer
     id: a08bbdeb-6c4e-4c65-88f6-27bb2c3a4b2e
     type: content
-  - name: Om 2FT.io
-    id: 54cc60e2-effd-4066-a32f-8500427431ee
-    type: content
   - name: ARCHMETHOD
     url: 'http://www.thearchmethod.com'
     type: external
+  - name: Om 2FT.io
+    id: 54cc60e2-effd-4066-a32f-8500427431ee
+    type: content
 favicon: null
 collections:
   - index:
