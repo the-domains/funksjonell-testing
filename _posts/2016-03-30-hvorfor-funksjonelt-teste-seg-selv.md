@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:25:34.663Z'
+datePublished: '2016-08-29T13:37:33.124Z'
 sourcePath: _posts/2016-03-30-hvorfor-funksjonelt-teste-seg-selv.md
 inFeed: true
 authors: []
@@ -8,12 +8,13 @@ keywords: []
 author:
   - name: Pontus Lüttkens
     url: 'https://no.linkedin.com/in/pontus-lüttkens-413a1270'
-dateModified: '2016-08-25T14:25:26.250Z'
+via: {}
+dateModified: '2016-08-29T13:37:32.544Z'
 title: Funksjonell Testing
 publisher:
-  name: Intressert? Klikk HER!
+  name: INTRESSERT? KLIKK HER!
   domain: null
-  url: 'https://podio.com/webforms/15407725/1032986'
+  url: 'https://podio.com/webforms/15595616/1045133'
   favicon: null
 description: >-
   Forestill deg selv i en vill jungel med et kart, eller hvorfor ikke
@@ -24,7 +25,6 @@ description: >-
   at du fungerer som menneske.
 inLanguage: null
 inNav: true
-via: {}
 starred: false
 url: hvorfor-funksjonelt-teste-seg-selv/index.html
 _context: 'http://schema.org'
@@ -40,7 +40,7 @@ _type: Article
 
 **Hvor du vil, som du ønsker! **Med din egen helse side hvor du vill (CheckUp(r)Trainer) og standardiserte målinger er dette mulig. Samlet kombinasjon av tester skaper en målestokk for din generelle helsetilstand akkurat nå. Hver enkelt måling er individualisert og valgt i henhold til din situasjon og mål. Uansett hva de kan være? Lignende tester har blitt gjort, og er ofte brukt av profesjonelle idrettsutøvere før å sikre framgang i trening og forebygge skader.
 
-Men er vi ikke alle fagfolk (profesjonelle) i den forstand at vi jobber hver dag og trenger en funksjonell kropp for å støtte vårt eget liv? 
+Men er vi ikke alle fagfolk (profesjonelle) i den forstand at vi jobber hver dag og trenger en funksjonell kropp for å støtte vårt eget liv?
 
 Når vi tester **balanse**, **styrke**, **koordinasjon**, **utholdenhet** og **fleksibilitet** og **kroppssammensetning** tester vi indirekte din generelle helse. Helhetlig, enkel og uten unnskyldninger. Disse tester er funksjonelle fordi vi tester det du bruker i det daglige og sammen kan utfylle de tester gjort av legen din.
 
